@@ -2135,6 +2135,12 @@ input, select, textarea {
 					font-weight: 700;
 				}
 
+				/*Logo*/
+				#nav img.logo {
+					max-width: 30%;
+					vertical-align: middle;
+				}
+
 	.dropotron {
 		border-radius: 5px;
 		background-color: #252122;
@@ -2274,6 +2280,8 @@ input, select, textarea {
 		#intro footer {
 			margin: 0;
 		}
+
+
 
 /* Footer info. */
 
